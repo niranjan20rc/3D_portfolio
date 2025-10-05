@@ -1,4 +1,1 @@
-<<<<<<< HEAD
-=======
-
->>>>>>> 00186fa62d101916fe36e9ed2f3ed3e09317cc18
+Just a portfolio 
